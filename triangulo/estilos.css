@@ -1,9 +1,13 @@
-div {
+#triangulo {
+margin-left:25%;
 width: 0px;
 height:0px;
-/*border: 2px solid #000;*/
-border-top:100px solid blue;
-border-right:100px solid red;
-border-bottom:100px solid green;
-border-left:100px solid yellow;
+border: 2px solid #000;
+border-top:80px solid transparent;
+border-right:400px solid transparent;
+border-bottom:400px solid green;
+border-left:400px solid transparent;
+}
+h1 {
+text-align:center;
 }
