@@ -1,6 +1,6 @@
 div {
-width: 100px;
-height:100px;
+width: 0px;
+height:0px;
 /*border: 2px solid #000;*/
 border-top:100px solid blue;
 border-right:100px solid red;
